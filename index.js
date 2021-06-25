@@ -16,9 +16,8 @@ for(var i=100; i>0; i--){
 
 // Print the sequence
 // 4, 2.5, 1, -0.5, -2, -3.5.
-var seq=[4,2.5,1,-0.5,-2,-3.5];
-for(var i=0; i<seq.length; i++){
-    console.log(seq[i]);
+for(var i=4; i> -10; i-=1.5){
+    console.log(i);
 }
 
 
